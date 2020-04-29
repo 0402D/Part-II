@@ -1,1 +1,1 @@
-THis folder contains the codes for running the experiment and the information sheets given to the participants. 
+THis folder contains the codes for constructing data and running the experiment, the information sheets given to the participants and the Good Clinical Practice certificate. 
