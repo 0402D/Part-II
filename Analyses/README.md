@@ -1,1 +1,1 @@
-This folder contains all the analyses done with JASP, except for lateness_Expectation_CNV_RMANOVA.jasp, as it exceeds the uploading limit 25MB. This file is available on request. 
+This folder contains all the analyses done with JASP, except for lateness_Expectation_CNV_RMANOVA.jasp and lateness_joystick_Friedman.jasp, as they exceed the uploading limit 25MB. These files are available on request. 
